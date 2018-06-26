@@ -45,8 +45,32 @@
 </div>
 </nav>
 
-<div class="content" data-ice="content"><div data-ice="index" class="github-markdown"><h1 id="mu-qunit-util">mu-qunit-util</h1><p>QUnit utility functions for use in MU Javascript projects.</p>
-</div>
+<div class="content" data-ice="content"><div data-ice="index" class="github-markdown"><h1 id="-maynoothuniversity-mu-qunit-util">@maynoothuniversity/mu-qunit-util</h1><p>A universal module which provides utilities for use within
+<a href="http://qunitjs.com/">QUnit</a> test suites for
+<a href="https://www.maynoothuniversity.ie/">Maynooth University</a> (MU) JavaScript
+projects.</p>
+<p>This module is public purely so it can be used within MU&apos;s open source projects.
+While it&apos;s free for anyone to use, it&apos;s not designed to be universally useful.</p>
+<p>API Documentation is available at
+<a href="https://bbusschots-mu.github.io/mu-qunit-util/">bbusschots-mu.github.io/mu-qunit-util</a>.</p>
+<h2 id="incorporation-into-test-suite">Incorporation into Test Suite</h2><p>This module can be used both from the CLI and in-browser.</p>
+<h3 id="qunit-cli--via-nodejs-">QUnit CLI (via NodeJS)</h3><p>Install the module:</p>
+<pre><code><code class="source-code prettyprint">npm install --save-dev @maynoothuniversity/mu-qunit-util</code>
+</code></pre><p>To make this module available as <code>u</code> within the test suite add
+<code>u:./node_modules/@maynoothuniversity/mu-qunit-util</code> to the <code>-d</code> flag for the
+<code>qunit</code> binary.</p>
+<p>The following is an example Node test script from <code>package.json</code>:</p>
+<pre><code><code class="source-code prettyprint">&quot;test&quot;: &quot;./node_modules/.bin/qunit -c SomeModule:./src/SomeModule.js -d is:./node_modules/is_js _:./node_modules/lodash u:./node_modules/@maynoothuniversity/mu-qunit-util -t ./test/tests.js&quot;</code>
+</code></pre><h3 id="qunit-web-interface">QUnit Web Interface</h3><p>To use the module within QUnit&apos;s web interface include the version of the
+module in the <code>build</code> folder into the page before including the test suite. This
+will publish the module to the global variable <code>muQUnitUtil</code>. If the test suite
+is expecting the module with a shorter alias like <code>u</code> that shoudl be done using
+a separate script tag.</p>
+<pre><code><code class="source-code prettyprint">&lt;script src=&quot;../node_modules/@maynoothuniversity/mu-qunit-util/build/muQUnitUtil.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+  const util = muQUnitUtil;
+&lt;/script&gt;</code>
+</code></pre></div>
 </div>
 
 <footer class="footer">
