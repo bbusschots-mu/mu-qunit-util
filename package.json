@@ -1,0 +1,38 @@
+{
+  "name": "@maynoothuniversity/mu-qunit-util",
+  "version": "1.1.0",
+  "description": "Qunit utilities for use in Maynooth University projects.",
+  "main": "src/muQUnitUtil.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "./node_modules/.bin/urequire config ./urequire.json",
+    "docs": "./node_modules/.bin/esdoc -c ./esdoc.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbusschots-mu/mu-qunit-util.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "QUnit"
+  ],
+  "author": "Bart Busschots",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbusschots-mu/mu-qunit-util/issues"
+  },
+  "homepage": "https://github.com/bbusschots-mu/mu-qunit-util#readme",
+  "dependencies": {
+    "is_js": "^0.9.0",
+    "urequire": "^0.7.0-beta.33"
+  },
+  "devDependencies": {
+    "esdoc": "^1.1.0",
+    "esdoc-node": "^1.0.3",
+    "esdoc-standard-plugin": "^1.0.0",
+    "urequire-cli": "^0.7.5"
+  }
+}

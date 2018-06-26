@@ -1,0 +1,25 @@
+{
+    "bundle": {
+        "name": "muQUnitUtil",
+        "main": "muQUnitUtil",
+        "path": "./src",
+        "filesz": "muQUnitUtil.js",
+        "dependencies": {
+            "rootExports": {
+                "muQUnitUtil": ["muQUnitUtil"]
+            }
+        }
+    },
+    "build": {
+        "template": {
+            "name": "combined",
+            "combinedFile": "build/muQUnitUtil.js",
+            "useStrict": true,
+            "verbose": true
+        },
+        "rootExports": {
+            "noConflict": true,
+            "runtimes": ["script"]
+        }
+    }
+}
