@@ -42,7 +42,7 @@ is expecting the module with a shorter alias like `u` that shoudl be done using
 a separate script tag.
 
 ```
-<script src="../node_modules/@maynoothuniversity/mu-qunit-util/build/muQUnitUtil.js"></script>
+<script src="../node_modules/@maynoothuniversity/mu-qunit-util/dist/index.js"></script>
 <script>
   const util = muQUnitUtil;
 </script>

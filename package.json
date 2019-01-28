@@ -1,13 +1,17 @@
 {
   "name": "@maynoothuniversity/mu-qunit-util",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Qunit utilities for use in Maynooth University projects.",
-  "main": "src/muQUnitUtil.js",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "files": [
+    "dist"
+  ],
   "publishConfig": {
     "access": "public"
   },
   "scripts": {
-    "build": "./node_modules/.bin/urequire config ./urequire.json",
+    "build": "./node_modules/rollup/bin/rollup -c",
     "docs": "./node_modules/.bin/esdoc -c ./esdoc.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,13 +30,14 @@
   },
   "homepage": "https://github.com/bbusschots-mu/mu-qunit-util#readme",
   "dependencies": {
-    "is_js": "^0.9.0",
-    "urequire": "^0.7.0-beta.33"
+    "is_js": "^0.9.0"
   },
   "devDependencies": {
     "esdoc": "^1.1.0",
     "esdoc-node": "^1.0.3",
     "esdoc-standard-plugin": "^1.0.0",
-    "urequire-cli": "^0.7.5"
+    "rollup": "^1.1.2",
+    "rollup-plugin-commonjs": "^9.2.0",
+    "rollup-plugin-node-resolve": "^4.0.0"
   }
 }
