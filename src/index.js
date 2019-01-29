@@ -23,7 +23,6 @@ const muQUnitUtil = {
      */
     allDummyData: {}
 };
-module.exports = muQUnitUtil;
 
 /**
  * A dummy data definition encapsulating the piece of data itself, a
@@ -495,3 +494,5 @@ muQUnitUtil.dummyDataWithAllTags = dummyDataWithAllTags;
 
 // initialise the dummy data
 refreshDummyData();
+
+export default muQUnitUtil;

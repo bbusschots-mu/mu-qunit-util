@@ -1,7 +1,8 @@
-(function (factory) {
+(function (global, factory) {
+	typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
 	typeof define === 'function' && define.amd ? define(factory) :
-	factory();
-}(function () { 'use strict';
+	(global = global || self, global.muQUnitUtil = factory());
+}(this, function () { 'use strict';
 
 	var commonjsGlobal = typeof window !== 'undefined' ? window : typeof global !== 'undefined' ? global : typeof self !== 'undefined' ? self : {};
 
@@ -924,7 +925,6 @@
 	     */
 	    allDummyData: {}
 	};
-	module.exports = muQUnitUtil;
 
 	/**
 	 * A dummy data definition encapsulating the piece of data itself, a
@@ -1396,5 +1396,7 @@
 
 	// initialise the dummy data
 	refreshDummyData();
+
+	return muQUnitUtil;
 
 }));
