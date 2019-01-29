@@ -1,74 +1,74 @@
 window.esdocSearchIndex = [
   [
-    "@maynoothuniversity/mu-qunit-util~dummydata",
-    "class/src/muQUnitUtil.js~DummyData.html",
-    "<span>DummyData</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util</span>",
+    "@maynoothuniversity/mu-qunit-util/src/index.js~dummydata",
+    "class/src/index.js~DummyData.html",
+    "<span>DummyData</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util/src/index.js</span>",
     "class"
   ],
   [
-    "@maynoothuniversity/mu-qunit-util~dummybasicdata",
+    "@maynoothuniversity/mu-qunit-util/src/index.js~dummybasicdata",
     "function/index.html#static-function-dummyBasicData",
-    "<span>dummyBasicData</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util</span>",
+    "<span>dummyBasicData</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util/src/index.js</span>",
     "function"
   ],
   [
-    "@maynoothuniversity/mu-qunit-util~dummybasicdataexcept",
+    "@maynoothuniversity/mu-qunit-util/src/index.js~dummybasicdataexcept",
     "function/index.html#static-function-dummyBasicDataExcept",
-    "<span>dummyBasicDataExcept</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util</span>",
+    "<span>dummyBasicDataExcept</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util/src/index.js</span>",
     "function"
   ],
   [
-    "@maynoothuniversity/mu-qunit-util~dummybasicprimitives",
+    "@maynoothuniversity/mu-qunit-util/src/index.js~dummybasicprimitives",
     "function/index.html#static-function-dummyBasicPrimitives",
-    "<span>dummyBasicPrimitives</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util</span>",
+    "<span>dummyBasicPrimitives</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util/src/index.js</span>",
     "function"
   ],
   [
-    "@maynoothuniversity/mu-qunit-util~dummybasicprimitivesexcept",
+    "@maynoothuniversity/mu-qunit-util/src/index.js~dummybasicprimitivesexcept",
     "function/index.html#static-function-dummyBasicPrimitivesExcept",
-    "<span>dummyBasicPrimitivesExcept</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util</span>",
+    "<span>dummyBasicPrimitivesExcept</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util/src/index.js</span>",
     "function"
   ],
   [
-    "@maynoothuniversity/mu-qunit-util~dummydata",
+    "@maynoothuniversity/mu-qunit-util/src/index.js~dummydata",
     "function/index.html#static-function-dummyData",
-    "<span>dummyData</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util</span>",
+    "<span>dummyData</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util/src/index.js</span>",
     "function"
   ],
   [
-    "@maynoothuniversity/mu-qunit-util~dummydatabytype",
+    "@maynoothuniversity/mu-qunit-util/src/index.js~dummydatabytype",
     "function/index.html#static-function-dummyDataByType",
-    "<span>dummyDataByType</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util</span>",
+    "<span>dummyDataByType</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util/src/index.js</span>",
     "function"
   ],
   [
-    "@maynoothuniversity/mu-qunit-util~dummydataexcept",
+    "@maynoothuniversity/mu-qunit-util/src/index.js~dummydataexcept",
     "function/index.html#static-function-dummyDataExcept",
-    "<span>dummyDataExcept</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util</span>",
+    "<span>dummyDataExcept</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util/src/index.js</span>",
     "function"
   ],
   [
-    "@maynoothuniversity/mu-qunit-util~dummydatawithalltags",
+    "@maynoothuniversity/mu-qunit-util/src/index.js~dummydatawithalltags",
     "function/index.html#static-function-dummyDataWithAllTags",
-    "<span>dummyDataWithAllTags</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util</span>",
+    "<span>dummyDataWithAllTags</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util/src/index.js</span>",
     "function"
   ],
   [
-    "@maynoothuniversity/mu-qunit-util~dummydatawithanytag",
+    "@maynoothuniversity/mu-qunit-util/src/index.js~dummydatawithanytag",
     "function/index.html#static-function-dummyDataWithAnyTag",
-    "<span>dummyDataWithAnyTag</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util</span>",
+    "<span>dummyDataWithAnyTag</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util/src/index.js</span>",
     "function"
   ],
   [
-    "@maynoothuniversity/mu-qunit-util~muqunitutil",
+    "@maynoothuniversity/mu-qunit-util/src/index.js~muqunitutil",
     "variable/index.html#static-variable-muQUnitUtil",
-    "<span>muQUnitUtil</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util</span>",
+    "<span>muQUnitUtil</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util/src/index.js</span>",
     "variable"
   ],
   [
-    "@maynoothuniversity/mu-qunit-util~refreshdummydata",
+    "@maynoothuniversity/mu-qunit-util/src/index.js~refreshdummydata",
     "function/index.html#static-function-refreshDummyData",
-    "<span>refreshDummyData</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util</span>",
+    "<span>refreshDummyData</span> <span class=\"search-result-import-path\">@maynoothuniversity/mu-qunit-util/src/index.js</span>",
     "function"
   ],
   [
@@ -354,87 +354,87 @@ window.esdocSearchIndex = [
     "external"
   ],
   [
-    "src/muqunitutil.js",
-    "file/src/muQUnitUtil.js.html",
-    "src/muQUnitUtil.js",
+    "src/index.js",
+    "file/src/index.js.html",
+    "src/index.js",
     "file"
   ],
   [
-    "src/muqunitutil.js~dummydata#_description",
-    "class/src/muQUnitUtil.js~DummyData.html#instance-member-_description",
-    "src/muQUnitUtil.js~DummyData#_description",
+    "src/index.js~dummydata#_description",
+    "class/src/index.js~DummyData.html#instance-member-_description",
+    "src/index.js~DummyData#_description",
     "member"
   ],
   [
-    "src/muqunitutil.js~dummydata#_taglookup",
-    "class/src/muQUnitUtil.js~DummyData.html#instance-member-_tagLookup",
-    "src/muQUnitUtil.js~DummyData#_tagLookup",
+    "src/index.js~dummydata#_taglookup",
+    "class/src/index.js~DummyData.html#instance-member-_tagLookup",
+    "src/index.js~DummyData#_tagLookup",
     "member"
   ],
   [
-    "src/muqunitutil.js~dummydata#_tagpath",
-    "class/src/muQUnitUtil.js~DummyData.html#instance-member-_tagPath",
-    "src/muQUnitUtil.js~DummyData#_tagPath",
+    "src/index.js~dummydata#_tagpath",
+    "class/src/index.js~DummyData.html#instance-member-_tagPath",
+    "src/index.js~DummyData#_tagPath",
     "member"
   ],
   [
-    "src/muqunitutil.js~dummydata#_tags",
-    "class/src/muQUnitUtil.js~DummyData.html#instance-member-_tags",
-    "src/muQUnitUtil.js~DummyData#_tags",
+    "src/index.js~dummydata#_tags",
+    "class/src/index.js~DummyData.html#instance-member-_tags",
+    "src/index.js~DummyData#_tags",
     "member"
   ],
   [
-    "src/muqunitutil.js~dummydata#_type",
-    "class/src/muQUnitUtil.js~DummyData.html#instance-member-_type",
-    "src/muQUnitUtil.js~DummyData#_type",
+    "src/index.js~dummydata#_type",
+    "class/src/index.js~DummyData.html#instance-member-_type",
+    "src/index.js~DummyData#_type",
     "member"
   ],
   [
-    "src/muqunitutil.js~dummydata#_value",
-    "class/src/muQUnitUtil.js~DummyData.html#instance-member-_value",
-    "src/muQUnitUtil.js~DummyData#_value",
+    "src/index.js~dummydata#_value",
+    "class/src/index.js~DummyData.html#instance-member-_value",
+    "src/index.js~DummyData#_value",
     "member"
   ],
   [
-    "src/muqunitutil.js~dummydata#constructor",
-    "class/src/muQUnitUtil.js~DummyData.html#instance-constructor-constructor",
-    "src/muQUnitUtil.js~DummyData#constructor",
+    "src/index.js~dummydata#constructor",
+    "class/src/index.js~DummyData.html#instance-constructor-constructor",
+    "src/index.js~DummyData#constructor",
     "method"
   ],
   [
-    "src/muqunitutil.js~dummydata#description",
-    "class/src/muQUnitUtil.js~DummyData.html#instance-get-description",
-    "src/muQUnitUtil.js~DummyData#description",
+    "src/index.js~dummydata#description",
+    "class/src/index.js~DummyData.html#instance-get-description",
+    "src/index.js~DummyData#description",
     "member"
   ],
   [
-    "src/muqunitutil.js~dummydata#hastag",
-    "class/src/muQUnitUtil.js~DummyData.html#instance-method-hasTag",
-    "src/muQUnitUtil.js~DummyData#hasTag",
+    "src/index.js~dummydata#hastag",
+    "class/src/index.js~DummyData.html#instance-method-hasTag",
+    "src/index.js~DummyData#hasTag",
     "method"
   ],
   [
-    "src/muqunitutil.js~dummydata#tagpath",
-    "class/src/muQUnitUtil.js~DummyData.html#instance-get-tagPath",
-    "src/muQUnitUtil.js~DummyData#tagPath",
+    "src/index.js~dummydata#tagpath",
+    "class/src/index.js~DummyData.html#instance-get-tagPath",
+    "src/index.js~DummyData#tagPath",
     "member"
   ],
   [
-    "src/muqunitutil.js~dummydata#tags",
-    "class/src/muQUnitUtil.js~DummyData.html#instance-get-tags",
-    "src/muQUnitUtil.js~DummyData#tags",
+    "src/index.js~dummydata#tags",
+    "class/src/index.js~DummyData.html#instance-get-tags",
+    "src/index.js~DummyData#tags",
     "member"
   ],
   [
-    "src/muqunitutil.js~dummydata#type",
-    "class/src/muQUnitUtil.js~DummyData.html#instance-get-type",
-    "src/muQUnitUtil.js~DummyData#type",
+    "src/index.js~dummydata#type",
+    "class/src/index.js~DummyData.html#instance-get-type",
+    "src/index.js~DummyData#type",
     "member"
   ],
   [
-    "src/muqunitutil.js~dummydata#value",
-    "class/src/muQUnitUtil.js~DummyData.html#instance-get-value",
-    "src/muQUnitUtil.js~DummyData#value",
+    "src/index.js~dummydata#value",
+    "class/src/index.js~DummyData.html#instance-get-value",
+    "src/index.js~DummyData#value",
     "member"
   ]
 ]

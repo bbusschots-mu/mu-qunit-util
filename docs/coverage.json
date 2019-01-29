@@ -3,17 +3,17 @@
   "expectCount": 25,
   "actualCount": 18,
   "files": {
-    "src/muQUnitUtil.js": {
+    "src/index.js": {
       "expectCount": 25,
       "actualCount": 18,
       "undocumentLines": [
+        46,
         47,
         48,
         49,
         50,
         51,
-        52,
-        61
+        60
       ]
     }
   }
