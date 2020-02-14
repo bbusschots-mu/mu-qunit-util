@@ -1,6 +1,6 @@
 {
   "name": "@maynoothuniversity/mu-qunit-util",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Qunit utilities for use in Maynooth University projects.",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -11,7 +11,7 @@
     "access": "public"
   },
   "scripts": {
-    "build": "./node_modules/rollup/bin/rollup -c",
+    "build": "./node_modules/.bin/rollup -c",
     "docs": "./node_modules/.bin/esdoc -c ./esdoc.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -34,10 +34,10 @@
   },
   "devDependencies": {
     "esdoc": "^1.1.0",
-    "esdoc-node": "^1.0.3",
+    "esdoc-node": "^1.0.5",
     "esdoc-standard-plugin": "^1.0.0",
-    "rollup": "^1.1.2",
-    "rollup-plugin-commonjs": "^9.2.0",
-    "rollup-plugin-node-resolve": "^4.0.0"
+    "rollup": "^1.31.1",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
   }
 }
