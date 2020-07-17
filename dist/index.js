@@ -1195,7 +1195,7 @@
 	        for(const t of Object.keys(muQUnitUtil.allDummyData)){
 	            if(!typeSkipLookup[t]) typesToFetch.push(t);
 	        }
-	    }else{
+	    }else {
 	        typesToFetch.push(reqType);
 	    }
 	    
