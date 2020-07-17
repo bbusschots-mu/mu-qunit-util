@@ -1,6 +1,6 @@
 {
   "name": "@maynoothuniversity/mu-qunit-util",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Qunit utilities for use in Maynooth University projects.",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
